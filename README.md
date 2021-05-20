@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Róbert Blažek! 👋
 
-<!--
-**bobbyblaze/bobbyblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Bliqit App.
+- 🌱 I’m currently learning Java, Spring Framework, Spring Boot, Java Servlets.
+- 👯 I’m looking to collaborate on anything, that will give me new experience.
+- 🤔 I’m looking for help with databases.
+- 💬 Ask me about anything.
+- 📫 How to reach me: [Instagram - @robert_blazek](https://www.instagram.com/robert_blazek/)
+- ⚡ Fun fact: Sometimes I wake up in the middle of the night, with a solution to a problem I'm facing in the code.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Róbert Blažek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobbyblaze&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyblaze&layout=compact)
