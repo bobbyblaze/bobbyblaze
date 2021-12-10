@@ -1,7 +1,7 @@
 ### Hi there, I'm Róbert Blažek! 👋
 
 - 🔭 I’m currently working on Bliqit App.
-- 🌱 I’m currently learning Java, Spring Framework, REST API, Hibernate.
+- 🌱 I’m currently learning Java, Spring / Spring Boot
 - 👯 I’m looking to collaborate on anything, that will give me new experience.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Instagram - @robert_blazek](https://www.instagram.com/robert_blazek/)
