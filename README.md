@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 👯 I’m looking to collaborate on web development.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [Email](robertblazek02@gmail.com)
+- 📫 How to reach me: robertblazek02@gmail.com
 - ⚡ Fun fact: Sometimes I wake up in the middle of the night, with a solution to a problem I'm facing in the code.
 
 
