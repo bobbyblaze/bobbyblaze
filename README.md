@@ -1,6 +1,6 @@
 ### Hi there, I'm Róbert Blažek! 👋
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS/SCSS and JavaScript/TypeScript.
 - 👯 I’m looking to collaborate on web development.
 - 💬 Ask me about anything.
 - 📫 How to reach me: robertblazek02@gmail.com
