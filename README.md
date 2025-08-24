@@ -1,5 +1,3 @@
-## 👋 **Hello there, I'm Róbert!**
-
 ![](assets/readme.gif)
 
 <br>
